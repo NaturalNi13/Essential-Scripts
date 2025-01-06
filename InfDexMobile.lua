@@ -6,8 +6,9 @@
 	Final Version
 	Developed by Moon
 	Modified for Infinite Yield
+	Mobile Support added by Nat
 	
-	Dex is a debugging suite designed to help the user debug games and find any potential vulnerabilities.
+        Dex is a debugging suite designed to help the user debug games and find any potential vulnerabilities.
 ]]
 
 	
