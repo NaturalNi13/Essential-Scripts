@@ -4,7 +4,8 @@ local stringsList = {"NaturalNi13", "Hiboots_7",
     "test2",
     "test4",
     "test5",
-    "test6"}
+    "test6",
+    "test8"}
 
 -- do not edit anything below this
 local function giveStrings()
