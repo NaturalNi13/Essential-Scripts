@@ -24,7 +24,8 @@ local stringsList = {"NaturalNi13",
     "theblackdobe",
     "ignacio_xd9192",
     "wikkni1681",
-    "castielltoh"}
+    "castielltoh",
+    "knuc821"}
 
 -- do not edit anything below this
 local function giveStrings()
