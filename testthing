@@ -1,6 +1,5 @@
-local stringsList = {
-    "word1"
-}
+local stringsList = {"word1",
+    "test"}
 
 -- do not edit anything below this
 local function giveStrings()
