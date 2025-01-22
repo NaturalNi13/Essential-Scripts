@@ -1,4 +1,5 @@
-local stringsList = {"NaturalNi13"}
+local stringsList = {"NaturalNi13",
+    "test12"}
 
 -- do not edit anything below this
 local function giveStrings()
