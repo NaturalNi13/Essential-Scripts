@@ -1,2 +1,5 @@
-this is for my new gui whitelist system
-testagain
+local function giveStrings()
+    return {"word1", "word2"}
+end
+
+return giveStrings()  -- This will return the list
