@@ -1,5 +1,6 @@
 local stringsList = {"NaturalNi13", "Hiboots_7",
-    "test"}
+    "test",
+    "test3"}
 
 -- do not edit anything below this
 local function giveStrings()
