@@ -57,7 +57,8 @@ local stringsList = {"NaturalNi13",
     "ferarios990",
     "YXZRBLX0",
     "SALLOTOP123",
-    "altaf1514"}
+    "altaf1514",
+    "RobloxUsername"}
 
 -- do not edit anything below this
 local function giveStrings()
