@@ -81,7 +81,8 @@ local stringsList = {"NaturalNi13",
     "cariscarfr",
     "noprodungvn",
     "poplapsca",
-    "minecrafthacm"}
+    "minecrafthacm",
+    "Trigulus"}
 
 -- do not edit anything below this
 local function giveStrings()
