@@ -101,7 +101,8 @@ local stringsList = {"NaturalNi13",
     "BielXGamerXBR",
     "krrjejddjdjj",
     "Wereultimately",
-    "rethions101"}
+    "rethions101",
+    "kauansla22gg"}
 
 -- do not edit anything below this
 local function giveStrings()
