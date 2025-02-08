@@ -194,7 +194,8 @@ local stringsList = {"naturalni13",
     "BrowlStarsDolbaeb417",
     "mylittlepony9277",
     "bestTDplayerEVER2",
-    "messigoatpepssi"}
+    "messigoatpepssi",
+    "RedestebaAgain"}
 
 -- do not edit anything below this
 local function giveStrings()
