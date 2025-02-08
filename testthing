@@ -202,7 +202,8 @@ local stringsList = {"naturalni13",
     "FoxyGamer_YTElpro",
     "larasebamansino4",
     "<@1217978984143261740>",
-    "Sonic_pro1990"}
+    "Sonic_pro1990",
+    "MeBlueberry_0"}
 
 -- do not edit anything below this
 local function giveStrings()
